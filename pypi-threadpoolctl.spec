@@ -5,7 +5,7 @@
 #
 Name     : pypi-threadpoolctl
 Version  : 3.2.0
-Release  : 27
+Release  : 28
 URL      : https://files.pythonhosted.org/packages/47/8a/c05f7831beb32aff70f808766224f11c650f7edfd49b27a8fc6666107006/threadpoolctl-3.2.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/47/8a/c05f7831beb32aff70f808766224f11c650f7edfd49b27a8fc6666107006/threadpoolctl-3.2.0.tar.gz
 Summary  : threadpoolctl
